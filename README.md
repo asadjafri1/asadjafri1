@@ -1,4 +1,4 @@
-### Leverage your machine learning and data to produce tangible business outcome with Asad, the machine learning engineer from UT Austin! 👋
+### Leverage your machine learning and data to produce tangible business outcomes with Asad, the machine learning engineer from UT Austin who just has a dogged passion for ML model explainability! 👋
 
 Here's a little about me:
 
