@@ -13,7 +13,7 @@ Awarded Killam Fellowship and selected as a Fulbright Canada Scholar to pursue s
   ● Received Fulbright grant forsemester, presented model conclusionsto Dept of Electrical & Computer Engineering faculty
 
 
-Interned as a Data Engineering and Machine Learning intern at a Big 4 Consulting competitor based in the San Francisco Bay Area in the Summer of 2023. 
+Interned as a Data Engineering and Machine Learning intern at a Big 4 Consulting competitor based in the San Francisco Bay Area in the Summer of 2023
 
     ● Developed Azure Machine Learning regression modelsto predict expenditures as benchmark for 7000+ consulting clients
   
@@ -23,7 +23,6 @@ Interned as a Data Engineering and Machine Learning intern at a Big 4 Consulting
   
     ● Initiated application of artificial intelligence for CRM (Salesforce Einstein and 365 Copilot), presented to firm Partners
   
-
 Interned as a Software Engineer in Web3 Blockchain at a fintech in the New York City Metropolitan Area
     ● Engineered front-end side of Web3 Blockchain Ethereum faucet application at an established security regulation fintech
     ● Utilized react.js, Bootstrap library, and generative artificial intelligence chatbot to launch front-end blockchain faucet
