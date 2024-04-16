@@ -1,5 +1,8 @@
 ### Hi, I'm Asad, the machine learning engineer from UT Austin! 👋
 
+Here's a little about me:
+
+Data Science and Informatics major at UT Austin, graduating in May 2024
 <!--
 **asadjafri1/asadjafri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
