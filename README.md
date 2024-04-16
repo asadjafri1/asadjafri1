@@ -21,7 +21,7 @@ Interned as a Data Engineering and Machine Learning intern at a Big 4 Consulting
   
     ● Configured Azure DevOps (Virtual Machines& Fabric)with internal systems engineers for cybersecurity infrastructure firm
   
-    ●  Initiated application of artificial intelligence for CRM (Salesforce Einstein and 365 Copilot), presented to firm Partners
+    ● Initiated application of artificial intelligence for CRM (Salesforce Einstein and 365 Copilot), presented to firm Partners
   
 
 Interned as a Software Engineer in Web3 Blockchain at a fintech in the New York City Metropolitan Area
