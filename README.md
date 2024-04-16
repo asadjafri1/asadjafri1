@@ -2,7 +2,7 @@
 
 Here's a little about me:
 
-● Data Science and Informatics major at UT Austin, graduating in May 2024.
+● Data Science and Informatics major at UT Austin, graduating in May 2024
 
 ● Awarded Killam Fellowship and selected as a Fulbright Canada Scholar to pursue specialized study in applied AI/ML at McMaster University in Canada, where I constructed a Random Forest ML model to predict the diabetes diagnosis of 700 hospital patients
 
