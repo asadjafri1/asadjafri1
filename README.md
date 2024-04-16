@@ -15,19 +15,23 @@ Awarded Killam Fellowship and selected as a Fulbright Canada Scholar to pursue s
 
 Interned as a Data Engineering and Machine Learning intern at a Big 4 Consulting competitor based in the San Francisco Bay Area in the Summer of 2023
 
-    ● Developed Azure Machine Learning regression modelsto predict expenditures as benchmark for 7000+ consulting clients
+  ● Developed Azure Machine Learning regression modelsto predict expenditures as benchmark for 7000+ consulting clients
   
-    ● Utilized SQL and Apache Spark to perform ETL processes, ingested and cleaned data for use within MS Synapse Data Lake
+  ● Utilized SQL and Apache Spark to perform ETL processes, ingested and cleaned data for use within MS Synapse Data Lake
   
-    ● Configured Azure DevOps (Virtual Machines& Fabric)with internal systems engineers for cybersecurity infrastructure firm
+  ● Configured Azure DevOps (Virtual Machines& Fabric)with internal systems engineers for cybersecurity infrastructure firm
   
-    ● Initiated application of artificial intelligence for CRM (Salesforce Einstein and 365 Copilot), presented to firm Partners
+  ● Initiated application of artificial intelligence for CRM (Salesforce Einstein and 365 Copilot), presented to firm Partners
   
 Interned as a Software Engineer in Web3 Blockchain at a fintech in the New York City Metropolitan Area
-    ● Engineered front-end side of Web3 Blockchain Ethereum faucet application at an established security regulation fintech
-    ● Utilized react.js, Bootstrap library, and generative artificial intelligence chatbot to launch front-end blockchain faucet
-    ● Translated business requirements into actionable code by working with SQL and node.js developers through JIRA
-    ● Crafted UX wireframe of front-end components to initiate SDLC, developed application with CI/CD principles
+  
+  ● Engineered front-end side of Web3 Blockchain Ethereum faucet application at an established security regulation fintech
+  
+  ● Utilized react.js, Bootstrap library, and generative artificial intelligence chatbot to launch front-end blockchain faucet
+  
+  ● Translated business requirements into actionable code by working with SQL and node.js developers through JIRA
+  
+  ● Crafted UX wireframe of front-end components to initiate SDLC, developed application with CI/CD principles
 
 My GitHub profile features just some of the coolest technologies and projects I've had a chance to work on. I'm passionate about leveraging the hottest technologies within machine learning and AI, particularily with a focus on AI explainability techniques. I'm driven to maximize stakeholder value with the models I create, and model explainability is my passion, where I can truly hone in on communicating technical concepts to otherwise non-technical audiences. Message me on here or on Linkedin: (https://www.linkedin.com/in/jafriut/), and let's keep the conversation going!
 
